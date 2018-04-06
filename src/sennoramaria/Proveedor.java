@@ -11,7 +11,7 @@ public class Proveedor {
     public Proveedor(String nombre, ArrayList<Empresa> empresas, String administrador) {
         this.nombre = nombre;
         Empresas = empresas;
-        Administrador = administrador;
+
     }
 
 
